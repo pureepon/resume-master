@@ -360,7 +360,11 @@
                 <input Type="Hidden" Name="postURL" value=""/> 
                 <input type="image" src="https://www.paysbuy.com/imgs/paypalcredit.png" border="0" name="submit" alt="Make it easier,PaySbuy - it's fast,free and secure!"/> 
             </Form >
+<<<<<<< HEAD
           77777 888999991000    
+=======
+          55555     
+>>>>>>> origin/master
         </div><!-- end of container -->
 
 
